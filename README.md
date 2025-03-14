@@ -1,3 +1,5 @@
+![Ben's GitHub Banner](https://raw.githubusercontent.com/benstraw-ctm/benstraw-ctm/main/assets/banner.webp)
+
 # 👋 Hi, I'm Ben!
 Welcome to my GitHub profile. I'm a **senior technical product manager** with an engineering background.
 
@@ -8,5 +10,3 @@ Welcome to my GitHub profile. I'm a **senior technical product manager** with an
 
 **📫 Connect with me:**  
 [LinkedIn](https://linkedin.com/in/benstraw) 
-
-![Ben's GitHub Banner](https://raw.githubusercontent.com/benstraw-ctm/benstraw-ctm/main/assets/banner.webp)
