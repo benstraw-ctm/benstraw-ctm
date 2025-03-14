@@ -1,5 +1,5 @@
 ![Ben's GitHub Banner](https://raw.githubusercontent.com/benstraw-ctm/benstraw-ctm/main/assets/banner.webp)
-
+[![Ben's GitHub Banner](https://raw.githubusercontent.com/benstraw-ctm/benstraw-ctm/main/assets/banner.webp)](https://benstraw.com/galleries/2024-12-17/)
 # 👋 Hi, I'm Ben!
 Welcome to my GitHub profile. I'm a **senior technical product manager** with an engineering background.
 
