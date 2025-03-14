@@ -7,6 +7,7 @@ Welcome to my GitHub profile. I'm a **technical product manager** and a **softwa
 - 📈 Interested in **data visualization**, **news sentiment analysis**, and **security**.
 - 🌎 Based in **Los Angeles**, born in **Philadelphia**, Lived in **New York City** and **San Francisco**.
 - 🚀 Currently working on **high-performance static sites and API integrations**.
+- Some activities I enjoy in my spare time are hiking, walking my dog **Rhys**, watching the Philadelphaia Eagles and cooking.
 
 **📫 Connect with me:**  
 [LinkedIn](https://linkedin.com/in/benstraw) 
