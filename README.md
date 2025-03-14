@@ -9,4 +9,4 @@ Welcome to my GitHub profile. I'm a **senior technical product manager** with an
 **📫 Connect with me:**  
 [LinkedIn](https://linkedin.com/in/benstraw) 
 
-![Ben's GitHub Banner](https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.webp)
+![Ben's GitHub Banner](https://raw.githubusercontent.com/benstraw-ctm/benstraw-ctm/main/assets/banner.webp)
