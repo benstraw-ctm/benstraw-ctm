@@ -1,7 +1,7 @@
-![Ben's GitHub Banner](https://raw.githubusercontent.com/benstraw-ctm/benstraw-ctm/main/assets/banner.webp)
 [![Ben's GitHub Banner](https://raw.githubusercontent.com/benstraw-ctm/benstraw-ctm/main/assets/banner.webp)](https://benstraw.com/galleries/2024-12-17/)
+
 # 👋 Hi, I'm Ben!
-Welcome to my GitHub profile. I'm a **senior technical product manager** with an engineering background.
+Welcome to my GitHub profile. I'm a **technical product manager** and a **software engineer**.
 
 - 💻 I build fast, scalable apps using **React, TypeScript, TailwindCSS and GCP**.
 - 📈 Interested in **data visualization**, **news sentiment analysis**, and **security**.
